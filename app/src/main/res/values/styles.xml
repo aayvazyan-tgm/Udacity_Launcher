@@ -14,16 +14,14 @@
         <item name="android:buttonStyle">@style/AppTheme.MyButton</item>
     </style>
 
-    <style name="AppTheme.MyButton"
-        parent="android:Widget.Button">
+    <style name="AppTheme.MyButton" parent="android:Widget.Button">
         <!--<item name="android:background">@color/ActionColor</item>-->
         <!--<item name="background">@color/ActionColor</item>-->
     </style>
 
 
     <!-- ActionBar styles -->
-    <style name="AppTheme.MyActionBar"
-        parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+    <style name="AppTheme.MyActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid.Inverse">
         <item name="background">@color/DarkColor</item>
         <item name="titleTextStyle">@style/AppTheme.MyActionBar.TitleTextStyle</item>
     </style>
